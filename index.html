@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI E-commerce</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to AI E-commerce</h1>
+        <nav>
+            <ul>
+                <li><a href="#products">Products</a></li>
+                <li><a href="#cart">Cart</a></li>
+                <li><a href="#recommendations">Recommendations</a></li>
+            </ul>
+        </nav>
+        <div>
+            <input type="text" id="search-bar" placeholder="Search for products...">
+        </div>
+    </header>
+
+    <main>
+        <section id="products">
+            <h2>Products</h2>
+            <div id="product-list">
+                <!-- Products will be dynamically added here -->
+            </div>
+        </section>
+
+        <section id="cart">
+            <h2>Your Cart</h2>
+            <ul id="cart-items">
+                <!-- Cart items will appear here -->
+            </ul>
+            <p id="cart-total">Total: $0.00</p>
+        </section>
+
+        <section id="recommendations">
+            <h2>Recommended for You</h2>
+            <div id="recommendation-list">
+                <!-- Recommended products will appear here -->
+            </div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

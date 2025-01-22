@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Motherboard",
+        "price": 29.99,
+        "category": "electronics",
+        "image": "img/motherboard.png"
+    },
+    {
+        "id": 2,
+        "name": "Keyboard",
+        "price": 49.99,
+        "category": "clothing",
+        "image": "img/keyboard.png"
+    },
+    {
+        "id": 3,
+        "name": "Product C",
+        "price": 19.99,
+        "category": "books",
+        "image": "placeholder.png"
+    },
+    {
+        "id": 4,
+        "name": "Product D",
+        "price": 19.99,
+        "category": "books",
+        "image": "placeholder.png"
+    }
+]
