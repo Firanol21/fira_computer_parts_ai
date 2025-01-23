@@ -3,28 +3,36 @@
         "id": 1,
         "name": "Motherboard",
         "price": 29.99,
-        "category": "electronics",
+        "category": "internal",
         "image": "img/motherboard.png"
     },
     {
         "id": 2,
         "name": "Keyboard",
         "price": 49.99,
-        "category": "clothing",
+        "category": "external",
         "image": "img/keyboard.png"
     },
     {
         "id": 3,
-        "name": "Product C",
+        "name": "hard drive",
         "price": 19.99,
-        "category": "books",
-        "image": "placeholder.png"
+        "category": "memory",
+        "image": "img/hdd.webp"
     },
     {
         "id": 4,
-        "name": "Product D",
+        "name": "RAM",
         "price": 19.99,
-        "category": "books",
-        "image": "placeholder.png"
+        "category": "memory",
+        "image": "img/ram.webp"
+    },
+    {
+        "id": 5,
+        "name": "Notebook batterry",
+        "price": 19.99,
+        "category": "battery",
+        "image": "img/nb battery.jpg"
     }
+    
 ]
